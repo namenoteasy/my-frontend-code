@@ -1,0 +1,14 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "rows": [
+      {
+        "evtCode": "abc",
+        "value": 10,
+        "desc": "自动巡检频率"
+      }
+    ],
+    "total": 100
+  }
+}

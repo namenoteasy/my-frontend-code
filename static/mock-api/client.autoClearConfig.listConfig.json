@@ -1,0 +1,21 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "total": 123,
+    "rows": [
+      {
+        "cfgId": "6",
+        "cfgItem": "车牌可信度阈值",
+        "cfgDesc": "",
+        "cfgValue": 0.8
+      },
+	  {
+        "cfgId": "7",
+        "cfgItem": "行为可信度阈值",
+        "cfgDesc": "",
+        "cfgValue": 0.8
+      }
+    ]
+  }
+}

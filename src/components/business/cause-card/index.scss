@@ -1,0 +1,17 @@
+.card-wrapper{
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  justify-content: center;
+  height:132px;
+  border:1px solid #FFFF66;
+  background-color: #FFFFE8;
+  text-align: center;
+}
+.cause{
+  margin-bottom: 12px;
+  @include font(28px,28px,#333,bold);
+}
+.time{
+  @include font(14px,14px,#333);
+}

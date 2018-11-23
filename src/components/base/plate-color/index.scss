@@ -1,0 +1,58 @@
+.select-color{
+  position: relative;
+  .plate {
+    width: 15px;
+    height: 15px;
+    margin: 0 auto;
+    cursor: pointer;
+  }
+  .plate-drop{
+    position: absolute;
+    width: 100%;
+    top: 25px;
+    .item{
+      width: 100%;
+      margin-bottom: 4px;
+    }
+  }
+}
+.car-plate-black {
+  background-color: #000000;
+  border: 1px solid #383838;
+  &:hover {
+    background-color: #383838;
+    border: 1px solid #CCCCCC;
+  }
+}
+.car-plate-blue {
+  background-color: #3E8CF7;
+  border: 1px solid #383838;
+  &:hover {
+    background-color: #7AB0FA;
+    border: 1px solid #E2E2E2;
+  }
+}
+.car-plate-white {
+  background-color: #FFFFFF;
+  border: 1px solid #5E5E5E;
+  &:hover {
+    background-color: #FFFFFF;
+    border: 1px solid #CCCCCC;
+  }
+}
+.car-plate-green {
+  background-color: #009933;
+  border: 1px solid #383838;
+  &:hover {
+    background-color: #00CC00;
+    border: 1px solid #CCCCCC;
+  }
+}
+.car-plate-yellow {
+  background-color: #EFBC23;
+  border: 1px solid #383838;
+  &:hover {
+    background-color: #FFD013;
+    border: 1px solid #CCCCCC;
+  }
+}

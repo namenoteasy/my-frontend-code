@@ -1,0 +1,16 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "total": 123,
+    "rows": [
+      {
+        "deviceId": "1",
+        "time": "2018-05-03  18:00:00",
+        "deviceCode": "VSCAM-600-LS17010194",
+        "deviceType": "双枪",
+        "mac": "11-22-33-44-55-66"
+      }
+    ]
+  }
+}

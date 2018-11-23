@@ -1,0 +1,30 @@
+.small-container{
+  padding: 0 0 17px 0;
+  background-color: #fff;
+}
+.small-title {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  border:1px solid #ddd;
+  border-bottom: none;
+  .bule-border {
+    background: #24AAEF;
+    width: 3px;
+    height: 12px;
+    float: left;
+    margin-top: 13px;
+  }
+  .title-text {
+    line-height: 38px;
+    font-size: 14px;
+    color: #666666;
+    float: left;
+    margin-left: 10px;
+  }
+}
+.link-fl{
+  float:right;
+  margin-top:10px;
+  text-decoration: underline;
+}

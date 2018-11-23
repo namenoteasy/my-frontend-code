@@ -1,0 +1,15 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "total": 123,
+    "rows": [
+      {
+        "cfgId": "1",
+        "cfgItem": "状态图发送间隔时间",
+        "cfgDesc": "状态图发送的时间间隔",
+        "cfgValue": "500ms"
+      }
+    ]
+  }
+}

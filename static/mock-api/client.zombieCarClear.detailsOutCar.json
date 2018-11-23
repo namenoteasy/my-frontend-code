@@ -1,0 +1,95 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "plateData": {
+      "plateImgId": "232",
+      "plateImg": "http://ww2.sinaimg.cn/large/0060lm7Tly1fpy4ke20zoj31hc0u04h1.jpg"
+    },
+    "infoData": {
+      "inTime": "2017-9-1 11:00:01:819",
+      "berthCode": "400100"
+    },
+    "inPic": [
+      {
+        "imgPath": "http://ww2.sinaimg.cn/large/0060lm7Tly1fpy4ke20zoj31hc0u04h1.jpg",
+        "time": "2018-09-21 07:43:19.289",
+        "isSnap": 1,
+        "imgPosition": {
+          "leftTopX": "21",
+          "leftTopY": "12",
+          "rightBottomX": "51",
+          "rightBottomY": "22",
+          "imgWidth": "1920",
+          "imgHeight": "1080"
+        }
+      },
+      {
+        "imgPath": "http://ww2.sinaimg.cn/large/0060lm7Tly1fpy4ke20zoj31hc0u04h1.jpg",
+        "time": "2018-09-21 07:43:19.289",
+        "isSnap": 1,
+        "imgPosition": {
+          "leftTopX": "21",
+          "leftTopY": "12",
+          "rightBottomX": "51",
+          "rightBottomY": "22",
+          "imgWidth": "1920",
+          "imgHeight": "1080"
+        }
+      }
+    ],
+    "picArr": [
+      {
+        "imgId": "[statusPhoto]d617adbc-88d9-434b-9f87-a4a7ebed646f",
+        "imgPath": "http://ww2.sinaimg.cn/large/0060lm7Tly1fpy4ke20zoj31hc0u04h1.jpg",
+        "time": "2018-09-21 07:43:19.289",
+        "isSnap": 1
+      },{
+        "imgId": "[statusPhoto]d617adbc-88d9-434b-9f87-a4a7ebed646f",
+        "imgPath": "http://ww2.sinaimg.cn/large/0060lm7Tly1fpy4ke20zoj31hc0u04h1.jpg",
+        "time": "2018-09-21 07:43:19.289",
+        "isSnap": 1
+      },{
+        "imgId": "[statusPhoto]d617adbc-88d9-434b-9f87-a4a7ebed646f",
+        "imgPath": "http://ww2.sinaimg.cn/large/0060lm7Tly1fpy4ke20zoj31hc0u04h1.jpg",
+        "time": "2018-09-21 07:43:19.289",
+        "isSnap": 1
+      },{
+        "imgId": "[statusPhoto]d617adbc-88d9-434b-9f87-a4a7ebed646f",
+        "imgPath": "http://www.signaltone.com.cn/Uploads/poto/59bb8b686dfda.jpg",
+        "time": "2018-09-21 07:43:19.289",
+        "isSnap": 1
+      },{
+        "imgId": "[statusPhoto]d617adbc-88d9-434b-9f87-a4a7ebed646f",
+        "imgPath": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1539337513677&di=5cbd295d67d7e839f684dc8169fff64f&imgtype=0&src=http%3A%2F%2Fwww.sjzanbao.com%2Fdata%2Fimages%2Fcase%2F20170802090251_104.jpg",
+        "time": "2018-09-21 07:43:19.289",
+        "isSnap": 1
+      },{
+        "imgId": "[statusPhoto]d617adbc-88d9-434b-9f87-a4a7ebed646f",
+        "imgPath": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1539337513677&di=404218615b4d31406c4d1f6f53224891&imgtype=0&src=http%3A%2F%2Fimg.mp.itc.cn%2Fupload%2F20160516%2F03a3045944e746c394e64afd459b9f55_th.jpg",
+        "time": "2018-09-21 07:43:19.289",
+        "isSnap": 1
+      },{
+        "imgId": "[statusPhoto]d617adbc-88d9-434b-9f87-a4a7ebed646f",
+        "imgPath": "http://ww2.sinaimg.cn/large/0060lm7Tly1fpy4ke20zoj31hc0u04h1.jpg",
+        "time": "2018-09-21 07:43:19.289",
+        "isSnap": 1
+      },{
+        "imgId": "[statusPhoto]d617adbc-88d9-434b-9f87-a4a7ebed646f",
+        "imgPath": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1539337513677&di=57720667c3e43bb1b82ff9873c60cec8&imgtype=0&src=http%3A%2F%2Fl.b2b168.com%2F2017%2F05%2F26%2F17%2F201705261718460699394.jpg",
+        "time": "2018-09-21 07:43:19.289",
+        "isSnap": 1
+      },{
+        "imgId": "[statusPhoto]d617adbc-88d9-434b-9f87-a4a7ebed646f",
+        "imgPath": "http://ww2.sinaimg.cn/large/0060lm7Tly1fpy4ke20zoj31hc0u04h1.jpg",
+        "time": "2018-09-21 07:43:19.289",
+        "isSnap": 1
+      },{
+        "imgId": "[statusPhoto]d617adbc-88d9-434b-9f87-a4a7ebed646f",
+        "imgPath": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1539337513677&di=57720667c3e43bb1b82ff9873c60cec8&imgtype=0&src=http%3A%2F%2Fl.b2b168.com%2F2017%2F05%2F26%2F17%2F201705261718460699394.jpg",
+        "time": "2018-09-21 07:43:19.289",
+        "isSnap": 1
+      }
+    ]
+  }
+}

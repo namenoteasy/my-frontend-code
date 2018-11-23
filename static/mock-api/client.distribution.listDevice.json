@@ -1,0 +1,60 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": [
+    {
+      "geometry": "107.564 22.876",
+      "title": "中盟",
+      "deviceType": "双枪",
+      "deviceId": "1",
+      "imgPath": "../../../../static/image/shuangqiang.png",
+      "imgSelectPath": "../../../../static/image/shuangqiang-xuan.png",
+      "alt": "滨河路5号"
+    },
+    {
+      "geometry": "108.455 22.5.24",
+      "title": "中盟",
+      "deviceType": "视频桩",
+      "deviceId": "2",
+      "imgPath": "../../../../static/image/shipinzhuang.png",
+      "imgSelectPath": "../../../../static/image/shipinzhuang-xuan.png",
+      "alt": "滨河路5号"
+    },
+    {
+      "geometry": "108.238 22.5",
+      "title": "中盟",
+      "deviceType": "扫地机",
+      "deviceId": "3",
+      "imgPath": "../../../../static/image/saodiji.png",
+      "imgSelectPath": "../../../../static/image/saodiji-xuan.png",
+      "alt": "滨河路5号"
+    },
+    {
+      "geometry": "108.46 22.6787",
+      "title": "中盟",
+      "deviceType": "枪球",
+      "deviceId": "4",
+      "imgPath": "../../../../static/image/qiangqiu.png",
+      "imgSelectPath": "../../../../static/image/qiangqiu-xuan.png",
+      "alt": "滨河路5号"
+    },
+    {
+      "geometry": "108.88 22.3545",
+      "title": "中盟",
+      "deviceType": "地磁",
+      "deviceId": "5",
+      "imgPath": "../../../../static/image/dici.png",
+      "imgSelectPath": "../../../../static/image/dici-xuan.png",
+      "alt": "滨河路5号"
+    },
+    {
+      "geometry": "108.54 22.511",
+      "title": "中盟",
+      "deviceType": "半封闭",
+      "deviceId": "6",
+      "imgPath": "../../../../static/image/banfengbi.png",
+      "imgSelectPath": "../../../../static/image/banfengbi-xuan.png",
+      "alt": "滨河路5号"
+    }
+  ]
+}

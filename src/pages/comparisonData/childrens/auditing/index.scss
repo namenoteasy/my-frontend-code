@@ -1,0 +1,66 @@
+.car-plate-container {
+  padding: 10px 0;
+  background: #FAFAFA;
+  margin-top: 10px;
+}
+
+
+
+.timer-container {
+  height: 57px;
+  background: #FAFAFA;
+  padding: 163px 5px 0 5px;
+}
+
+.comparison-dialog-content {
+  .comparison-dialog-bottom {
+    margin-top: 17px;
+    padding: 0 10px 10px 10px;
+    border: 1px solid #dddddd;
+  }
+  .comparison-dialog-status,
+  .comparison-dialog-time {
+    border: 1px solid #dddddd;
+    float: left;
+  }
+  .comparison-dialog-status {
+    width: 346px;
+    height: 275px;
+    padding: 10px;
+    .status-text {
+      width: 100%;
+      height: 86px;
+      line-height: 86px;
+      background: #FFFFE8;
+      margin-top: 39px;
+      .small-text {
+        font-size: $font-size-h3;
+        font-weight: bold;
+        color: #333333;
+        margin-right: 20px;
+        margin-left: 10px;
+      }
+      .big-text {
+        font-size: $font-size-h1;
+        font-weight: bold;
+        color: #333333;
+      }
+    }
+  }
+  .comparison-dialog-time {
+    width: 840px;
+    height: 285px;
+    padding: 0 10px 10px 10px;
+    margin-left: 14px;
+  }
+  .comparison-photo {
+    width: 1222px;
+    height: 392px;
+    .photo-container {
+      height: 320px;
+      background: #EAEDF1;
+      padding: 10px 46px;
+    }
+  }
+}
+

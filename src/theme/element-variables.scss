@@ -1,0 +1,39 @@
+/* Element Chalk Variables */
+@import "./theme.scss";
+/* 改变主题色变量 */
+$--color-primary: $color-primary;
+
+/* Colors
+-------------------------- */
+$--color-text-primary: #2d2f33 !default;
+$--color-text-regular: $color-font-normal !default;
+$--color-text-secondary: #878d99 !default;
+$--color-text-placeholder: #b4bccc !default;
+
+/* Box-shadow
+-------------------------- */
+$--box-shadow-light: $box-shadow !default;
+
+/* Card
+--------------------------*/
+$--card-padding: $padding-small !default;
+
+/* Input
+-------------------------- */
+$--input-font-size: $font-size-small !default;
+$--input-color: $color-font-normal !default;
+$--input-width: 140px !default;
+$--input-height: 30px !default;
+$--input-border-color: $color-line-shallow !default;
+$--input-border-radius: 0 !default;
+$--input-border-color-hover: $color-line-deep !default;
+
+/* Table
+-------------------------- */
+$--table-header-color: $color-font-normal !default;
+$--table-current-row-background: $color-primary !default;
+
+/* 改变 icon 字体路径变量，必需 */
+$--font-path: '../../node_modules/element-ui/packages/theme-chalk/src/fonts';
+@import "../../node_modules/element-ui/packages/theme-chalk/src/index";
+@import "./element-extend.scss";

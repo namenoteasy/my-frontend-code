@@ -1,0 +1,18 @@
+.static-panel {
+  border: 1px solid #DDDDDD;
+  background: #ffffff;
+  .panel-title {
+    background: #EAEDF1;
+    height: 39px;
+    text-align: center;
+    span {
+      font-size: 16px;
+      line-height: 39px;
+      color: #666666;
+    }
+  }
+  .panel-content {
+    padding-bottom: 52px;
+    position: relative;
+  }
+}

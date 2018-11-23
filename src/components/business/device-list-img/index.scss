@@ -1,0 +1,17 @@
+.img-container{
+  position: relative;
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+  align-items: center;
+}
+.snapshot{
+  display: inline-block;
+  position: absolute;
+  top:0;
+  right: 0;
+  width:30px;
+  @include font(12px,20px,#fff);
+  text-align: center;
+  background-color: #434343;
+}

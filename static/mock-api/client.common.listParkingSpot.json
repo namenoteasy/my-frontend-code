@@ -1,0 +1,30 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": [
+    {
+      "parkingCode": "400",
+      "parkingName": "一美"
+    },
+    {
+      "parkingCode": "401",
+      "parkingName": "二美"
+    },
+    {
+      "parkingCode": "402",
+      "parkingName": "三美"
+    },
+    {
+      "parkingCode": "403",
+      "parkingName": "四美"
+    },
+    {
+      "parkingCode": "404",
+      "parkingName": "五美"
+    },
+    {
+      "parkingCode": "405",
+      "parkingName": "六美"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "rows": [
+      {
+        "parkingId": "1",
+        "parkingName": "三美",
+        "parkingCode": "400",
+        "berthName": "400100",
+        "berthCode": "400100",
+        "geo": "124.12 86.56"
+      },
+      {
+        "parkingId": "1",
+        "parkingName": "三美",
+        "parkingCode": "400",
+        "berthName": "400100",
+        "berthCode": "400100",
+        "geo": "124.12 86.56"
+      }
+    ],
+    "total": 100
+  }
+}

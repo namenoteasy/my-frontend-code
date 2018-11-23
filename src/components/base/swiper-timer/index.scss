@@ -1,0 +1,18 @@
+.swiper-container {
+  width: 100%;
+  height: 100%;
+}
+.swiper-slide{
+  background: none;
+  height: auto;
+  overflow: inherit;
+  display: block;
+  &:before{
+    background: #EBEEF5;
+    margin: 4px auto 10px;
+    content: '';
+    width: 5px;
+    height: 18px;
+    display: block;
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "dictKey": "carNumberColour",
+      "dictList": [{
+        "dictDescription": "蓝色车牌",
+        "dictId": "carNumberColourBlue",
+        "dictKey": "carNumberColourBlue",
+        "dictName": "蓝",
+        "dictSecondValue": "#3274C6",
+        "dictValue": "1",
+        "dicSort": 0
+      }, {
+        "dictDescription": "绿色车牌",
+        "dictId": "carNumberColourGreen",
+        "dictKey": "carNumberColourGreen",
+        "dictName": "绿",
+        "dictSecondValue": "#64ad3f",
+        "dictValue": "2",
+        "dicSort": 0
+      }, {
+        "dictDescription": "黄色车牌",
+        "dictId": "carNumberColourYellow",
+        "dictKey": "carNumberColourYellow",
+        "dictName": "黄",
+        "dictSecondValue": "#EFBC23",
+        "dictValue": "3",
+        "dicSort": 0
+      }, {
+        "dictDescription": null,
+        "dictId": "carNumberColourBlack",
+        "dictKey": "carNumberColourBlack",
+        "dictName": "黑",
+        "dictSecondValue": "#000000",
+        "dictValue": "4",
+        "dicSort": 4
+      }, {
+        "dictDescription": null,
+        "dictId": "carNumberColourWhite",
+        "dictKey": "carNumberColourWhite",
+        "dictName": "白",
+        "dictSecondValue": "#FFFFFF",
+        "dictValue": "5",
+        "dicSort": 4
+      }]
+    },
+    {
+      "dictKey": "deviceType",
+      "dictList": [
+        {
+          "dictDescription": "其他",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "其他",
+          "dictSecondValue": null,
+          "dictValue": "0",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "双枪",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "双枪",
+          "dictSecondValue": null,
+          "dictValue": "1",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "视频桩",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "视频桩",
+          "dictSecondValue": null,
+          "dictValue": "2",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "枪球",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "枪球",
+          "dictSecondValue": null,
+          "dictValue": "3",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "半封闭",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "半封闭",
+          "dictSecondValue": null,
+          "dictValue": "4",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "扫地机",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "扫地机",
+          "dictSecondValue": null,
+          "dictValue": "5",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "地磁",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "地磁",
+          "dictSecondValue": null,
+          "dictValue": "6",
+          "dicSort": 0
+        }
+      ]
+    },
+    {
+      "dictKey": "plateColor",
+      "dictList": [
+        {
+          "dictDescription": "未知",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "未知",
+          "dictSecondValue": null,
+          "dictValue": "0",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "蓝色",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "蓝色",
+          "dictSecondValue": null,
+          "dictValue": "1",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "黄色",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "黄色",
+          "dictSecondValue": null,
+          "dictValue": "2",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "黑色",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "黑色",
+          "dictSecondValue": null,
+          "dictValue": "3",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "白色",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "白色",
+          "dictSecondValue": null,
+          "dictValue": "4",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "绿色",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "绿色",
+          "dictSecondValue": null,
+          "dictValue": "5",
+          "dicSort": 0
+        }
+      ]
+    },
+    {
+      "dictKey": "evtStatus",
+      "dictList": [
+        {
+          "dictDescription": "未清洗",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "未清洗",
+          "dictSecondValue": null,
+          "dictValue": "0",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "系统认为可信",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "系统认为可信",
+          "dictSecondValue": null,
+          "dictValue": "1",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "系统认为不可信",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "系统认为不可信",
+          "dictSecondValue": null,
+          "dictValue": "2",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "人工认为可信",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "人工认为可信",
+          "dictSecondValue": null,
+          "dictValue": "3",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "人工认为不可信",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "人工认为不可信",
+          "dictSecondValue": null,
+          "dictValue": "4",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "人工认为无法辨认",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "人工认为无法辨认",
+          "dictSecondValue": null,
+          "dictValue": "5",
+          "dicSort": 0
+        }
+      ]
+    },
+    {
+      "dictKey": "evt",
+      "dictList": [
+        {
+          "dictDescription": "入场事件",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "入场事件",
+          "dictSecondValue": null,
+          "dictValue": "evt.car.in",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "出场事件",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "出场事件",
+          "dictSecondValue": null,
+          "dictValue": "evt.car.out",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "完成事件",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "完成事件",
+          "dictSecondValue": null,
+          "dictValue": "evt.car.complete",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "设备告警事件",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "设备告警事件",
+          "dictSecondValue": null,
+          "dictValue": "evt.warning.device",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "设备维护完成事件",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "设备维护完成事件",
+          "dictSecondValue": null,
+          "dictValue": "evt.device.repair",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "事件作废事件",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "事件作废事件",
+          "dictSecondValue": null,
+          "dictValue": "evt.cancel",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "停车点泊位占满告警事件",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "停车点泊位占满告警事件",
+          "dictSecondValue": null,
+          "dictValue": "evt.warning.occupy",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "超长时间占用告警事件",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "超长时间占用告警事件",
+          "dictSecondValue": null,
+          "dictValue": "evt.warning.outlimit",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "信息变更事件",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "信息变更事件",
+          "dictSecondValue": null,
+          "dictValue": "evt.info.onchange",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "设备位置上传事件",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "设备位置上传事件",
+          "dictSecondValue": null,
+          "dictValue": "evt.geo.onchange",
+          "dicSort": 0
+        },
+        {
+          "dictDescription": "设备状态推送事件",
+          "dictId": null,
+          "dictKey": null,
+          "dictName": "设备状态推送事件",
+          "dictSecondValue": null,
+          "dictValue": "evt.device.status",
+          "dicSort": 0
+        }
+      ]
+    }
+  ]
+}

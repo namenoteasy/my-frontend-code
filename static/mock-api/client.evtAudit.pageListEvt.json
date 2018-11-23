@@ -1,0 +1,22 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "total": 123,
+    "rows": [
+      {
+        "evtId": "1",
+        "evtCode": "e2018050315456",
+        "plateColor": 0,
+        "plateNumber": "桂A123456",
+        "evt": "出场",
+        "parkingName": "三美",
+        "parkingCode": "400",
+        "berthCode": "400100",
+        "deviceCode": "VSCAM-600-LS17010194",
+        "time": "2018-05-03  18:00:00",
+        "auditReason": "需审核理由"
+      }
+    ]
+  }
+}

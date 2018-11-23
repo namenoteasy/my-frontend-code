@@ -1,0 +1,28 @@
+.scroller{
+  position: relative;
+  box-sizing: border-box;
+
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+  &:after, &:before {
+    display: table;
+    content: "";
+  }
+  &:after {
+    clear: both;
+  }
+}
+.img-card{
+  float: left;
+  box-sizing: border-box;
+  margin-bottom: 17px;
+  margin-right: 17px;
+  img{
+    display: block;
+    width: 100%;
+    height:auto;
+  }
+}
+

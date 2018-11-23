@@ -1,0 +1,50 @@
+.platform-name {
+  @include font(20px, 50px, #fff, bold);
+}
+.icon-yunyingpingtailogo {
+  margin-right: 17px;
+  @include font(26px, 20px, $color-shalow-blue);
+  vertical-align: middle;
+}
+.sign-out {
+  @include font(12px, 50px, #fff);
+}
+.icon-tuichu {
+  margin-left: 26px;
+  margin-right: 17px;
+  @include font(20px, 50px, #fff);
+  vertical-align: middle;
+  cursor: pointer;
+}
+/*********************************element***************************************/
+.el-header {
+  padding-left: 17px;
+  background-color: $color-back-black;
+}
+.el-aside {
+  padding: 0;
+  background-color: #3D4250;
+  text-align: left;
+  @include font(16px, 40px, $color-font-normal);
+}
+.expand-button{
+  position: absolute;
+  margin-top: -41px;
+  left:-1px;
+  top:50%;
+  cursor: pointer;
+}
+@keyframes slide-menu {
+  0% {
+    width:0;
+  }
+  20% {
+    width:170px;
+  }
+  100% {
+    width:auto;
+  }
+}
+.slide-menu-enter-active{
+  animation: slide-menu ease .5s;
+}

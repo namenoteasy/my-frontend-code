@@ -1,0 +1,8 @@
+{
+  "code": "0",
+  "message": "导入成功",
+  "data": {
+    "successMsg": "共导入134条数据，5条失败",
+    "downloadUrl": "http://39.104.81.96:8088/parking_business_entry/upload/parkingDevBerthInfoRegTemplate.xlsx"
+  }
+}

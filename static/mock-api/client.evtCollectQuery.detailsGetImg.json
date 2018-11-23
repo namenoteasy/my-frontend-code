@@ -1,0 +1,12 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "picArr": [
+      {
+        "time": "2018-09-21 07:43:19.289",
+        "imgPath": "http://ww2.sinaimg.cn/large/0060lm7Tly1fpy4ke20zoj31hc0u04h1.jpg"
+      }
+    ]
+  }
+}

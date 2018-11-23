@@ -1,0 +1,30 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": [
+    {
+      "imgPath": "../../../../static/img/car.png",
+      "width": 1080,
+      "height": 720,
+      "imgId": null,
+      "shootingType": "定时",
+      "time": "2018-09-21 07:43:19.289"
+    },
+    {
+      "imgPath": "../../../../static/img/car.png",
+      "width": 1080,
+      "height": 720,
+      "imgId": null,
+      "shootingType": "抓拍",
+      "time": "2018-09-21 07:43:19.289"
+    },
+    {
+      "imgPath": "../../../../static/img/car.png",
+      "width": 1080,
+      "height": 720,
+      "imgId": null,
+      "shootingType": "定时",
+      "time": "2018-09-21 07:43:19.289"
+    }
+  ]
+}

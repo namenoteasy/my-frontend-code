@@ -1,0 +1,10 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "deviceNum": 100,
+    "unknownNum": 100,
+    "berthNum": 100,
+    "parkingNum": 100
+  }
+}

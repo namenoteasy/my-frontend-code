@@ -1,0 +1,15 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "total": 123,
+    "rows": [
+      {
+        "apiSettingId": "1",
+        "setting": "状态图发送间隔时间",
+        "desc": "状态图发送的时间间隔",
+        "value": "500ms"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "total": 123,
+    "rows": [
+      {
+        "deviceApiId": 1,
+        "deviceCode": "VSCAM-600-LS17010194",
+        "deviceType": "双枪",
+        "time": "2018-05-03  18:00:00",
+        "fileCount": "0",
+        "apiTypeName": "停车时间上报接口"
+      }
+    ]
+  }
+}

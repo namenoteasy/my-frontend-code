@@ -1,0 +1,15 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "total": 123,
+    "rows": [
+      {
+        "businessSystem": "4dfdf",
+        "protocol": "dfdf",
+        "evtType": "gfbfgbg",
+        "token": "FRGRTYH243"
+      }
+    ]
+  }
+}

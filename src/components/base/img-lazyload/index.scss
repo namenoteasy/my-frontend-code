@@ -1,0 +1,25 @@
+.img-wrapper{
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+}
+.img{
+  width: 100%;
+  height:auto;
+}
+.no-img{
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
+.icon-zanwutupian-copy-copy{
+  font-size: 60px;
+  color:#BFBFBF;
+}
+.no-img-word{
+  font-size: 16px;
+  color:#BFBFBF;
+  text-align: center;
+}

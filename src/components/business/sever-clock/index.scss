@@ -1,0 +1,19 @@
+.time-char{
+  display: inline-block;
+  text-align: center;
+  &+&{
+    margin-left:1px;
+  }
+}
+.time-str-item{
+  display: inline-block;
+  width: 25px;
+  @include font(32px,40px,#333,bold);
+  background-color: #EAEDF1;
+}
+.time-str-item__white{
+  display: inline-block;
+  width: 25px;
+  @include font(32px,40px,#333,bold);
+  background-color: #fff;
+}

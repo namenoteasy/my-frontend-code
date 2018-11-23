@@ -1,0 +1,10 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "deviceNum": 100,
+    "receiveNum": 100,
+    "sendNum": 100,
+    "callbackTime": 100
+  }
+}

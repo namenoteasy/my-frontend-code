@@ -1,0 +1,35 @@
+.img-container{
+  position: relative;
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+  align-items: center;
+}
+.desc{
+  @include font(12px,30px,#333);
+  text-align: center;
+  background-color: #EAEDF1;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.snapshot{
+  display: inline-block;
+  position: absolute;
+  top:0;
+  right: 0;
+  width:30px;
+  @include font(12px,20px,#fff);
+  text-align: center;
+  background-color: #434343;
+}
+.manualAlarm{
+  display: inline-block;
+  position: absolute;
+  right:10px;
+  bottom: 10px;
+  width:90px;
+  @include font(14px,30px,#FFFF00);
+  text-align: center;
+  background-color: rgba(0,0,0,0.5);
+  cursor: pointer;
+}

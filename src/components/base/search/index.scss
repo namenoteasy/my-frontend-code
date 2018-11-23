@@ -1,0 +1,18 @@
+.cpp-search-container {
+  border: 1px solid #DDDDDD;
+  background: #ffffff;
+  .search-title {
+    background: #EAEDF1;
+    height: 38px;
+    span {
+      font-size: $font-size-normal;
+      line-height: 38px;
+      padding-left: 10px;
+      color: #666666;
+    }
+  }
+  .search-content {
+    padding: 4px 0 4px 10px;
+    position: relative;
+  }
+}

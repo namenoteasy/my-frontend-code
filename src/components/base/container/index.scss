@@ -1,0 +1,31 @@
+.cpp-content-container{
+  background: #FAFAFA;
+  min-height: 100%;
+  height: 100%;
+}
+.cpp-main-container {
+  padding: 17px;
+  height: calc(100% - 74px);
+  overflow: auto;
+}
+
+.cpp-main-title {
+  height: 40px;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, .2);
+  .bule-border {
+    background: #24AAEF;
+    width: 3px;
+    height: 14px;
+    float: left;
+    margin-left: 18px;
+    margin-top: 12px;
+  }
+  .title-text {
+    line-height: 40px;
+    font-size: 16px;
+    color: #333333;
+    float: left;
+    margin-left: 7px;
+  }
+}

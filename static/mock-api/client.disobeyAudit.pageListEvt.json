@@ -1,0 +1,19 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "total": 123,
+    "rows": [
+      {
+        "disobeyId": "1",
+        "plateColor": 0,
+        "plateNumber": "桂A123456",
+        "evt": "违停",
+        "deviceCode": "VSCAM-600-LS17010194",
+        "deviceType": 1,
+        "time": "2018-05-03  18:00:00",
+        "road": "xxx路口"
+      }
+    ]
+  }
+}

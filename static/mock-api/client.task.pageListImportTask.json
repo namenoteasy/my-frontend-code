@@ -1,0 +1,24 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "rows": [
+      {
+        "taskId": "4556",
+        "time": "1234234",
+        "fileName": "erer",
+        "importModule": "dfdf",
+        "originalFileURL": "https://qd.myapp.com/myapp/qqteam/pcqq/QQ9.0.7.exe",
+        "importReportURL": "https://qd.myapp.com/myapp/qqteam/pcqq/QQ9.0.7.exe",
+        "people": "山东省"
+      }, {
+        "taskId": "4556",
+        "time": "1234234",
+        "fileName": "erer",
+        "importModule": "dfdf",
+        "people": "山东省"
+      }
+    ],
+    "total": 100
+  }
+}

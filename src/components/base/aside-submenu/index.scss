@@ -1,0 +1,10 @@
+.submenu-header{
+  @include font(16px,50px,#333,bold);
+  text-align: center;
+}
+//子导航
+.t-submenu.el-main {
+  padding: 0;
+  background-color: #EAEDF1;
+  text-align: left;
+}

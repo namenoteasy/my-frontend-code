@@ -1,0 +1,8 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "responseContent": "{\n\t\"a\":\"12\"\n}",
+    "paramsContent": "{\n\t\"a\":\"12\"\n}"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "rows": [
+      {
+        "parkingId": "1",
+        "parkingCode": "sdf",
+        "parkingName": "间件",
+        "geo": "122 105"
+      },
+      {
+        "parkingId": "2",
+        "parkingCode": "sdf",
+        "parkingName": "间件",
+        "geo": "122 105"
+      }
+    ],
+    "total": 100
+  }
+}

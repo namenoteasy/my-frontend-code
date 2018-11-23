@@ -1,0 +1,208 @@
+.comparison-dialog-content {
+  .check-in-photo{
+    text-align: right;
+  }
+
+  .comparison-dialog-top {
+    margin-top: 17px;
+    padding: 0 0 10px 0;
+    //height: 526px;
+  }
+  .comparison-dialog-bottom {
+    border: 1px solid #CCCCCC;
+    padding: 29px 22px 26px 17px;
+  }
+
+  .comparison-photo {
+    //width: 1222px;
+    //height: 392px;
+    .photo-container {
+      //height: 310px;
+      background: #EAEDF1;
+      padding: 10px 46px;
+      position: relative;
+    }
+  }
+  .photo-proof {
+    position: absolute;
+    top: -30px;
+    right: 210px;
+    z-index: 10;
+    .proof-line {
+      width: 411px;
+      height: 126px;
+      border: 1px solid #3E8CF7;
+      .proof-line-container {
+        position: relative;
+      }
+      .proof-line-log {
+        position: absolute;
+        width: 123px;
+        height: 25px;
+        border: 2px solid #3E8CF7;
+        background: #ffffff;
+        font-size: 13px;
+        text-align: center;
+        line-height: 25px;
+        color: #3E8CF7;
+        top: -16px;
+        left: 50%;
+        margin-left: -62px;
+        border-radius: 5px;
+      }
+      .make {
+        width: 110%;
+        height: 1px;
+        position: absolute;
+        bottom: 0;
+        background: #EAEDF1;
+      }
+      .bule-arrow {
+        width: 0;
+        height: 0;
+        border-left: 4px solid transparent;
+        border-right: 4px solid transparent;
+        border-top: 7px solid #3E8CF7;
+        position: absolute;
+        z-index: 14;
+        top: 29px;
+        left: -3px;
+        &:nth-child(3) {
+          left: 408px;
+        }
+      }
+    }
+  }
+
+  .bule-border-container {
+    position: absolute;
+    right: 41px;
+    top: 4px;
+    font-size: 0;
+    z-index: 19;
+    .bule-border {
+      width: 370px;
+      height: 496px;
+      border: 6px solid #3E8CF7;
+      display: inline-block;
+      margin-left: 8px;
+    }
+  }
+
+  .logList {
+    padding: 13px 8px;
+    height: 768px;
+  }
+}
+
+.count-container {
+  background: #ffffff;
+  height: 50px;
+  padding-left: 10px;
+  border: 1px solid #DDDDDD;
+  border-bottom: 0;
+  @include font(14px, 50px, #333)
+}
+
+.in-image {
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  z-index: 4000;
+  height: 100vh;
+  background-color: rgba(#000, .8);
+  color: #FFF;
+  font-weight: 700;
+  > div {
+    position: relative;
+    font-size: 18px;
+  }
+  img {
+    border: 1px solid #DDD;
+    //width:calc((100% - 30px) / 3 * 2);
+    max-height: 100%;
+    max-width: 100%;
+  }
+}
+
+.bottom-left {
+  display: flex;
+  float: left;
+  img {
+    flex: 1;
+    width: 152px;
+    height: 84px;
+    display: inline-block;
+  }
+  .car-info {
+    flex: 1;
+    display: inline-block;
+    height: 84px;
+    margin-left: 20px;
+    .item {
+      height: 34px;
+      line-height: 34px;
+      width: 334px;
+      font-size: 14px;
+      color: #333;
+      background: #FAFAFA;
+      margin-bottom: 10px;
+      .label {
+        margin-left: 10px;
+      }
+      .content {
+        margin-left: 40px;
+      }
+    }
+  }
+}
+
+.bottom-right {
+  float: right;
+}
+
+.clear-container .el-form--inline .el-form-item {
+  margin-right: 0;
+  margin-bottom: 11px;
+}
+
+.text-ash {
+  font-size: 12px;
+  color: #666666;
+}
+
+.bottom-right {
+  padding-top: 20px;
+  .el-form-item {
+    margin: 0;
+  }
+}
+
+.slider-container {
+  position: relative;
+  margin-top: 40px;
+}
+
+.timer-container {
+  position: absolute;
+  top: -30px;
+  text-align: center;
+  &.in-timer {
+    left: 0;
+  }
+  &.out-timer {
+    right: 0;
+  }
+  .timer-title {
+    font-size: 14px;
+    color: #333;
+    font-weight: bold;
+  }
+  .timer-content {
+    font-size: 14px;
+    color: #333;
+  }
+}

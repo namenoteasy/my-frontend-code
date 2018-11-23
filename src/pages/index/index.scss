@@ -1,0 +1,31 @@
+.panel-icon{
+  line-height: 64px;
+  color: #B8E2F2;
+}
+.dividing{
+  position: relative;
+  &:before{
+    content: '';
+    display: inline-block;
+    position: absolute;
+    left:0;
+    top:18px;
+    height:128px;
+    width:1px;
+    background-color: #CCCCCC;
+  }
+}
+.arrow-1{
+  position: absolute;
+  left:-38px;
+  top:40px;
+  width: 76px;
+  height: 76px;
+}
+.arrow-2{
+  position: absolute;
+  right:-55px;
+  top:40px;
+  width: 76px;
+  height: 76px;
+}

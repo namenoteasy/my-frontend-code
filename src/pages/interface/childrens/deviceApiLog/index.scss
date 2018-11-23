@@ -1,0 +1,63 @@
+.comparison-dialog-content {
+  .comparison-dialog-bottom {
+    margin-top: 17px;
+    padding: 0 10px 10px 10px;
+    border: 1px solid #dddddd;
+  }
+  .comparison-dialog-top{
+    margin-top: 20px;
+  }
+  .comparison-dialog-status,
+  .comparison-dialog-right {
+    border: 1px solid #dddddd;
+    float: left;
+    box-sizing: border-box;
+  }
+  .comparison-dialog-status {
+    width: 483px;
+    height: 191px;
+    padding: 30px 34px 30px 43px;
+  }
+  .comparison-dialog-right {
+    width: 745px;
+    height: 191px;
+    padding: 39px 10px 42px 39px;
+    margin-left: 14px;
+  }
+  .comparison-photo {
+    width: 1222px;
+    height: 392px;
+    .photo-container {
+      height: 310px;
+      background: #EAEDF1;
+      padding: 10px 46px;
+    }
+  }
+}
+.snap-order{
+  box-shadow: none;
+  border: 0;
+}
+
+.panel .params-wrap,.panel .response-wrap {
+  float: left;
+  width: calc((100% - 62px) / 2);
+  border: 1px solid #CCCCCC;
+  padding: 0 10px 10px;
+  background: #ffffff;
+}
+.panel .response-wrap{
+  margin-left: 18px;
+}
+
+.panel .params-wrap .panel-content,.panel .response-wrap .panel-content {
+  height: calc(100vh - 350px);
+  background: #FAFAFA;
+}
+
+.panel .params-wrap .panel-content>div,.panel .response-wrap .panel-content>div {
+  height: 100%
+}
+
+
+

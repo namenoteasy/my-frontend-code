@@ -1,0 +1,16 @@
+.desc{
+  padding-top: 10px;
+  height: 16px;
+  @include font(16px,16px,#333333);
+}
+.icon{
+  display: inline-block;
+  height:64px;
+  margin-right: 14px;
+  vertical-align: middle;
+}
+.number{
+  display: inline-block;
+  @include font(32px,64px,#3E8cf7,bold);
+  vertical-align: middle;
+}

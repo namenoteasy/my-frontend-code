@@ -1,0 +1,23 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "total": 123,
+    "rows": [
+      {
+        "reportId": "1",
+        "plateColor": 0,
+        "plateNumber": "桂A123456",
+        "parkingName": "三美",
+        "parkingCode": "400",
+        "berthCode": "400100",
+        "inTime": "2018 -05-03 18:00:00",
+        "outTime": "2018 -05-03 18:00:00",
+        "machineinTime": "2018 -05-03 18:00:00",
+        "machineoutTime": "2018 -05-03 18:00:00",
+        "reportTime": "2018 -05-03 18:00:00",
+        "conclusion": "逃费"
+      }
+    ]
+  }
+}

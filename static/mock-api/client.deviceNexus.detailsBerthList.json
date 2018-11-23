@@ -1,0 +1,104 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "berthCodeArr": [
+      {
+        "berthCode": "400200"
+      },
+      {
+        "berthCode": "400201"
+      },
+      {
+        "berthCode": "400202"
+      },{
+        "berthCode": "400200"
+      },
+      {
+        "berthCode": "400201"
+      },
+      {
+        "berthCode": "400202"
+      },
+      {
+        "berthCode": "400203"
+      }
+    ],
+    "rows": [
+      {
+        "deviceBerthCode": "400100",
+        "berthCode": "400200"
+      },
+      {
+        "deviceBerthCode": "400100",
+        "berthCode": "400200"
+      },
+      {
+        "deviceBerthCode": "400100",
+        "berthCode": "400200"
+      },{
+        "deviceBerthCode": "400100",
+        "berthCode": "400200"
+      },
+      {
+        "deviceBerthCode": "400100",
+        "berthCode": "400200"
+      },
+      {
+        "deviceBerthCode": "400100",
+        "berthCode": "400200"
+      },{
+        "deviceBerthCode": "400100",
+        "berthCode": "400200"
+      },
+      {
+        "deviceBerthCode": "400100",
+        "berthCode": "400200"
+      },
+      {
+        "deviceBerthCode": "400100",
+        "berthCode": "400200"
+      },{
+        "deviceBerthCode": "400100",
+        "berthCode": "400200"
+      },
+      {
+        "deviceBerthCode": "400100",
+        "berthCode": "400200"
+      },
+      {
+        "deviceBerthCode": "400100",
+        "berthCode": "400200"
+      },{
+        "deviceBerthCode": "400100",
+        "berthCode": "400200"
+      },
+      {
+        "deviceBerthCode": "400100",
+        "berthCode": "400200"
+      },
+      {
+        "deviceBerthCode": "400100",
+        "berthCode": "400200"
+      },{
+        "deviceBerthCode": "400100",
+        "berthCode": "400200"
+      },
+      {
+        "deviceBerthCode": "400100",
+        "berthCode": "400200"
+      },
+      {
+        "deviceBerthCode": "400100",
+        "berthCode": "400200"
+      },{
+        "deviceBerthCode": "400100",
+        "berthCode": "400200"
+      },
+      {
+        "deviceBerthCode": "400100",
+        "berthCode": "400200"
+      }
+    ]
+  }
+}

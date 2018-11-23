@@ -1,0 +1,31 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "plateData": {
+      "plateColor": 0,
+      "plateImg": "/static/image/test_img.png",
+      "plateNumber": "桂A234232"
+    },
+    "infoData": {
+      "time": "2017-9-1 11:00:01:819",
+      "berthCode": "400100"
+    },
+    "picArr": [
+      {
+        "imgPath": "/static/image/test_img.png",
+        "imgId": "[statusPhoto]d617adbc-88d9-434b-9f87-a4a7ebed646f",
+        "time": "2018-09-21 07:43:19.289",
+        "isSnap": 1,
+        "imgPosition": {
+          "leftTopX": "21",
+          "leftTopY": "12",
+          "rightBottomX": "51",
+          "rightBottomY": "22",
+          "imgWidth": "2048",
+          "imgHeight": "3072"
+        }
+      }
+    ]
+  }
+}

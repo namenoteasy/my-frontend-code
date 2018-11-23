@@ -1,0 +1,54 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "total": 123,
+    "rows": [
+      {
+        "inoutId": "2",
+        "plateColor": 0,
+        "plateNumber": "桂A123456",
+        "evt": "出场",
+        "parkingName": "三美",
+        "parkingCode": "400",
+        "berthCode": "400100",
+        "deviceCode": "VSCAM-600-LS17010194",
+        "deviceType": 1,
+        "time": "2018-05-03  18:00:01",
+        "picCount": 1,
+        "plateCredible": "可信",
+        "actionCredible": "可信"
+      },
+      {
+        "inoutId": "2",
+        "plateColor": 0,
+        "plateNumber": "桂A123456",
+        "evt": "出场",
+        "parkingName": "三美",
+        "parkingCode": "400",
+        "berthCode": "400100",
+        "deviceCode": "VSCAM-600-LS17010194",
+        "deviceType": 1,
+        "time": "2018-05-03  18:00:01",
+        "picCount": 1,
+        "plateCredible": "可信",
+        "actionCredible": "可信"
+      },
+      {
+        "inoutId": "2",
+        "plateColor": 0,
+        "plateNumber": "桂A123456",
+        "evt": "出场",
+        "parkingName": "三美",
+        "parkingCode": "400",
+        "berthCode": "400100",
+        "deviceCode": "VSCAM-600-LS17010194",
+        "deviceType": 1,
+        "time": "2018-05-03  18:00:01",
+        "picCount": 1,
+        "plateCredible": "可信",
+        "actionCredible": "可信"
+      }
+    ]
+  }
+}

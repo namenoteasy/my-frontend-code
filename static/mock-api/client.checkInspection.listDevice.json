@@ -1,0 +1,35 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": [
+    {
+      "parkingCode": "的地方的",
+      "parkingName": "的地方的",
+      "alarmType": "自动告警",
+      "autoAlarmCause": "网络错误",
+      "deviceType": "视频桩",
+      "deviceCode": "YJPTCAM-D01-LS14010040",
+      "deviceId": null,
+      "deviceName": "21视频桩",
+      "time": "2018/04/11 12:12:12",
+      "shootingType": "抓拍",
+      "imgPath": "../../../../static/img/car.png",
+      "width": 1024,
+      "height": 768
+    }, {
+      "parkingCode": "的地方的",
+      "parkingName": "的地方的",
+      "alarmType": "自动告警",
+      "autoAlarmCause": "网络错误",
+      "deviceType": "视频桩",
+      "deviceCode": "YJPTCAM-D01-LS14010040",
+      "deviceId": null,
+      "deviceName": "21视频桩",
+      "time": "2018/04/11 12:12:12",
+      "shootingType": "抓拍",
+      "imgPath": "../../../../static/img/car.png",
+      "width": 1024,
+      "height": 768
+    }
+  ]
+}

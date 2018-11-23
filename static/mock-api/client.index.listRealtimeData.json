@@ -1,0 +1,13 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "deviceReportRate": 100,
+    "APICallRate": 100,
+    "alarmDeviceNum": 100,
+    "eventPushRate": 100,
+    "lowPlateNum": 100,
+    "lowBehaviorNum": 100,
+    "notSentNum": 100
+  }
+}

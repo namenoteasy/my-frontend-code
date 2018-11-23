@@ -1,0 +1,36 @@
+.comparison-dialog-content {
+  .comparison-dialog-bottom {
+    margin-top: 17px;
+    padding: 0 10px 10px 10px;
+    border: 1px solid #dddddd;
+  }
+  .comparison-dialog-status,
+  .comparison-dialog-right {
+    border: 1px solid #dddddd;
+    float: left;
+    box-sizing: border-box;
+  }
+  .comparison-dialog-status {
+    width: 483px;
+    height: 191px;
+    padding: 30px 34px 30px 43px;
+  }
+  .comparison-dialog-right {
+    width: 745px;
+    height: 191px;
+    padding: 39px 10px 42px 39px;
+    margin-left: 14px;
+  }
+  .comparison-photo {
+    width: 1222px;
+    height: 392px;
+    .photo-container {
+      height: 320px;
+      background: #EAEDF1;
+      padding: 10px 46px;
+    }
+  }
+}
+
+
+

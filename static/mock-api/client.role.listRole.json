@@ -1,0 +1,13 @@
+{
+	"code": "0",
+	"data": [{
+		"roleId": "20180116134425_2F876C2D9B8D4381A7C9C0AFCD028CCC0",
+		"roleName": "超级管理员",
+		"roleHomePage": null,
+		"roleDescription": "内部超级管理员"
+	}],
+	"memo": null,
+	"id": "1bfb13a2-a939-4f72-b8a5-818ac8f1132d",
+	"sessionId": "216a343658cf41c9930a7d39dc35c2d3",
+	"message": "执行成功"
+}

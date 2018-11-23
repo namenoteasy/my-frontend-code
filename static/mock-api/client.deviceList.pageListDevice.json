@@ -1,0 +1,19 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "total": 123,
+    "rows": [
+      {
+        "deviceId": "1",
+        "name": "小区路口1号",
+        "parkingName": "三美",
+        "parkingCode": "400",
+        "deviceCode": "VSCAM-600-LS17010194",
+        "deviceType": "1",
+        "mac": "11-22-33-44-55-66",
+        "geo": "116.325 28.153"
+      }
+    ]
+  }
+}

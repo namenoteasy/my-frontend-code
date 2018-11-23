@@ -1,0 +1,21 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "total": 123,
+    "rows": [
+      {
+        "parkingOrderId": "1",
+        "plateColor": 0,
+        "plateNumber": "桂A123456",
+        "parkingName": "三美",
+        "parkingCode": "400",
+        "berthCode": "400100",
+        "inTime": "2018 -05-03 18:00:00",
+        "outTime": "2018 -05-03 18:00:00",
+        "businessSystemId": "5786234",
+        "businessSystemName": "前海亿车"
+      }
+    ]
+  }
+}

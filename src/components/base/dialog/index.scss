@@ -1,0 +1,16 @@
+.cpp-dialog-container {
+  .cpp-dialog-title {
+    background: #EAEDF1;
+    line-height: 50px;
+    height: 50px;
+    padding-left: 10px;
+    span {
+      font-size: $font-size-h3;
+      color: #666666;
+      font-weight: bold;
+    }
+    .close-btn{
+      position: absolute;
+    }
+  }
+}

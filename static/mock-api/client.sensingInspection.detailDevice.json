@@ -1,0 +1,21 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "data": {
+    "parkingCode": "sdsgr",
+    "parkingName": "的地方的",
+    "deviceType": "视频桩",
+    "deviceCode": "YJPTCAM-D01-LS14010040",
+    "deviceName": "21视频桩",
+    "uploadTime": "2018/04/11 12:12:12",
+    "productTemperature": "23°C",
+    "cpuUsage": "1%",
+    "memoryUsage": "1%",
+    "gpsmoduleWorkStatus": "1%",
+    "tfcardStatus": "1%",
+    "tfcardCapacityStatus": "1%",
+    "alarmType": "自动告警",
+    "deviceId": "1878",
+    "imgPath": "../../../../static/img/car.png"
+  }
+}
